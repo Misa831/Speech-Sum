@@ -1,1 +1,4 @@
 v-speech-sum/
+
+## to activate the venv, just type in "active", as it is set as an alias. 
+## to deactivate the venv, just type "deactivate"
